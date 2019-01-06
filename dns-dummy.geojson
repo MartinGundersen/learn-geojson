@@ -4,10 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "DNS": "Aftonbladet.se"
+        "DNS": "Aftonbladet.se",
+        "stroke": "#f80f80"
       },
       "geometry": {
         "type": "LineString",
@@ -34,10 +34,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "DNS": "bt.no"
+        "DNS": "Hamar Arbeiderblad",
+        "stroke": "#ededed"
       },
       "geometry": {
         "type": "LineString",
@@ -60,10 +60,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "DNS": "krst.cool"
+        "DNS": "bt.no",
+        "stroke": "#ededed"
       },
       "geometry": {
         "type": "LineString",
@@ -86,10 +86,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "DNS": "Hamar Arbeiderblad"
+        "DNS": "krst.cool",
+        "stroke": "#ededed"
       },
       "geometry": {
         "type": "LineString",
