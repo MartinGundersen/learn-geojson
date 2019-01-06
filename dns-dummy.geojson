@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "DNS": "Aftonbladet.se"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.733642578125,
+            59.91648345450877
+          ],
+          [
+            12.0849609375,
+            60.46263441109029
+          ],
+          [
+            12.744140625,
+            58.03137242177637
+          ],
+          [
+            18.03955078125,
+            59.33318942659219
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "DNS": "bt.no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.74462890625,
+            59.89995826181929
+          ],
+          [
+            10.96435546875,
+            59.833775202184206
+          ],
+          [
+            11.074218749999998,
+            60.79134306865253
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "DNS": "krst.cool"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.72265625,
+            59.89995826181929
+          ],
+          [
+            10.65673828125,
+            60.27251459483244
+          ],
+          [
+            5.3173828125,
+            60.42469913713462
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "DNS": "Hamar Arbeiderblad"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.96435546875,
+            59.88893689676585
+          ],
+          [
+            9.29443359375,
+            58.768200159239576
+          ],
+          [
+            8.020019531249998,
+            58.17070248348609
+          ]
+        ]
+      }
+    }
+  ]
+}
