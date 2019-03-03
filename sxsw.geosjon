@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fairmont EFG",
+        "track": "Intelligent Future"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.73825883865356,
+          30.262106763026576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "hotell",
+        "track": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7372932434082,
+          30.253896028597854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "JW Marriott",
+        "track": "Media and journalism"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.74331212043762,
+          30.26459950253379
+        ]
+      }
+    }
+  ]
+}
