@@ -55,7 +55,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#eeeeee",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "House of Scandinavia"
