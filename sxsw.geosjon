@@ -51,6 +51,22 @@
           30.26459950253379
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "House of Scandinavia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.74362325668335,
+          30.263663574301724
+        ]
+      }
     }
   ]
 }
