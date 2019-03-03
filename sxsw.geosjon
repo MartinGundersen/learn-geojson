@@ -21,7 +21,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#2bd22f",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "hotell",
